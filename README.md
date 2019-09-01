@@ -1,3 +1,11 @@
+Hi, my name is Hua Zhao. 
+This is my first project of the class.
+For the project, I expect to answer all the questions that instructor ask us to answer.I successfully use the 'print' function to print out all my answers about the questions. And all of that works. All the ansers are in the 'main.py' file. You can download it to check the answers. 
+
+Thank You!
+
+
+
 # 01-Introduction
 
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
